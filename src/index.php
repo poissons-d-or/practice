@@ -1,2 +1,2 @@
 <?php
-echo "fuga";
+echo 5**5;
